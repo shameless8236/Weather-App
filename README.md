@@ -1,4 +1,6 @@
 Description
+
+
 The Weather App provides real-time weather data based on a user's input location. Users can enter a city name in the search bar, and the app will display weather details such as temperature, humidity, and wind speed. The weather data is fetched using the OpenWeatherMap API, and the app provides appropriate weather images for different weather conditions.
 
 Features
